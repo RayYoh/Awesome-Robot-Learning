@@ -72,6 +72,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [DoorGym](https://github.com/PSVL/DoorGym)
 * [RoboHive](https://github.com/vikashplus/robohive)
 * [dm_robotics: Libraries, tools, and tasks created and used for Robotics research at DeepMind](https://github.com/deepmind/dm_robotics)
+* [Omniverse Isaac Orbit](https://github.com/NVIDIA-Omniverse/Orbit)
 
 ### PyBullet-based
 * [PyBullet Gymperium](https://github.com/benelot/pybullet-gym)
