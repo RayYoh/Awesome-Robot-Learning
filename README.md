@@ -6,7 +6,7 @@ This repo contains a curative list of **robot learning** (mainly for manipulatio
 
 **Motivation:** Robot learning, especially robot manipulation skills learning, is receiving more and more attention, but since there are numerous subdivisions of robot learning and a dazzling array of approaches, this repo lists some of the researchers active in the field and the simulation environments used to test their algorithms to save researchers time in searching and focusing on their own algorithms. Related research papers are beyond the scope of this repo.  <br>
 
-Please feel free to send me [pull requests](https://github.com/RayYoh/Awesome-Robot-Learning/master/how-to-PR.md) or [email](mailto:rayyohhust@gmail.com) to add items! <br> 
+Please feel free to send me [pull requests](https://github.com/RayYoh/Awesome-Robot-Learning/blob/master/how-to-RP.md) or [email](mailto:rayyohhust@gmail.com) to add items! <br> 
 
 If you find this repo useful, please consider STARing this list and feel free to share this list with others!
 
@@ -55,7 +55,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [Andy Zeng](https://andyzeng.github.io/) [[Github]](https://github.com/andyzeng)
 * [Yuke Zhu](https://www.cs.utexas.edu/~yukez/) [[Github]](https://github.com/yukezhu)
 * [Cewu Lu](https://www.mvig.org/)
-* [Xuhua Zhe](http://hxu.rocks/)
+* [Huazhe Xu](http://hxu.rocks/)
 * [Edward Johns](https://www.robot-learning.uk/)
 * [Dong Hao](https://zsdonghao.github.io/)
 * [Yunzhu Li](https://yunzhuli.github.io/) [[Github]](https://github.com/yunzhuli)
