@@ -72,11 +72,11 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [DoorGym](https://github.com/PSVL/DoorGym)
 * [RoboHive](https://github.com/vikashplus/robohive)
 * [dm_robotics: Libraries, tools, and tasks created and used for Robotics research at DeepMind](https://github.com/deepmind/dm_robotics)
-* [Omniverse Isaac Orbit](https://github.com/NVIDIA-Omniverse/Orbit)
 
 ### PyBullet-based
 * [PyBullet Gymperium](https://github.com/benelot/pybullet-gym)
 * [panda-gym: Set of robotic environments based on PyBullet physics engine and gymnasium](https://github.com/qgallouedec/panda-gym)
+* [MiniTouch benchmark](https://github.com/ServiceNow/MiniTouch) It allows evaluation of models' performance on different manipulation tasks that can leverage cross-modal learning.
 * [Calvin: A Benchmark for Language-conditioned Policy Learning for Long-horizon Robot Manipulation Tasks](http://calvin.cs.uni-freiburg.de/) 
 * [Pybullet-implementation of the multi-goal robotics environment originally from Open AI Gym](https://github.com/IanYangChina/pybullet_multigoal_gym)
 * [Toolkit for Vision-Guided Quadrupedal Locomotion Research ](https://github.com/Mehooz/vision4leg)
@@ -84,7 +84,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 ### Issac-based
 * [Omniverse Isaac Gym Reinforcement Learning Environments for Isaac Sim](https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs)
 * [Isaac-ManipulaRL](https://github.com/cypypccpy/Isaac-ManipulaRL)
-* [Omniverse Isaac Orbit](https://github.com/NVIDIA-Omniverse/Orbit)
+* [Omniverse Isaac Orbit](https://github.com/NVIDIA-Omniverse/Orbit) (Recommended)
 
 ### Others
 * [RLBench:Robot Learning Benchmark](https://sites.google.com/view/rlbench)
