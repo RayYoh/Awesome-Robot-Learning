@@ -57,8 +57,9 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [Cewu Lu](https://www.mvig.org/)
 * [Huazhe Xu](http://hxu.rocks/)
 * [Edward Johns](https://www.robot-learning.uk/)
-* [Dong Hao](https://zsdonghao.github.io/)
+* [Hao Dong](https://zsdonghao.github.io/)
 * [Yunzhu Li](https://yunzhuli.github.io/) [[Github]](https://github.com/yunzhuli)
+* [Yang Gao](http://people.iiis.tsinghua.edu.cn/~gaoyang/yang-gao.weebly.com/index.html)
 ---
 ## Benchmarks
 ### MuJoCo-based
