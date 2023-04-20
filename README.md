@@ -60,6 +60,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [Hao Dong](https://zsdonghao.github.io/)
 * [Yunzhu Li](https://yunzhuli.github.io/) [[Github]](https://github.com/yunzhuli)
 * [Yang Gao](http://people.iiis.tsinghua.edu.cn/~gaoyang/yang-gao.weebly.com/index.html)
+* [Xiaolong Wang](https://xiaolonw.github.io/index.html)
 ---
 ## Benchmarks
 ### MuJoCo-based
