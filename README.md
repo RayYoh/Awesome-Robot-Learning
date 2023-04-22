@@ -62,6 +62,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [Yang Gao](http://people.iiis.tsinghua.edu.cn/~gaoyang/yang-gao.weebly.com/index.html)
 * [Xiaolong Wang](https://xiaolonw.github.io/index.html)
 * [Nicklas Hansen](https://nicklashansen.github.io/)
+* [Wenyu Liang](https://www.liangwenyu.com/welcome)
 ---
 ## Benchmarks
 ### MuJoCo-based
