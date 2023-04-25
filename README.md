@@ -47,22 +47,23 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [ETH Robotic Systems Lab](https://rsl.ethz.ch/)
 ---
 ## Active Researchers
-* [Pieter Abbeel](https://i3.cs.berkeley.edu/)
-* [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
-* [Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters)
-* [Sethu Vijayakumar](https://homepages.inf.ed.ac.uk/svijayak/)
-* [Huaping Liu](https://sites.google.com/site/thuliuhuaping)
-* [Andy Zeng](https://andyzeng.github.io/) [[Github]](https://github.com/andyzeng)
-* [Yuke Zhu](https://www.cs.utexas.edu/~yukez/) [[Github]](https://github.com/yukezhu)
-* [Cewu Lu](https://www.mvig.org/)
-* [Huazhe Xu](http://hxu.rocks/)
-* [Edward Johns](https://www.robot-learning.uk/)
-* [Hao Dong](https://zsdonghao.github.io/)
-* [Yunzhu Li](https://yunzhuli.github.io/) [[Github]](https://github.com/yunzhuli)
-* [Yang Gao](http://people.iiis.tsinghua.edu.cn/~gaoyang/yang-gao.weebly.com/index.html)
-* [Xiaolong Wang](https://xiaolonw.github.io/index.html)
-* [Nicklas Hansen](https://nicklashansen.github.io/)
-* [Wenyu Liang](https://www.liangwenyu.com/welcome)
+* [Pieter Abbeel](https://i3.cs.berkeley.edu/) UC Berkeley
+* [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) UC Berkeley
+* [Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters) TU Darmstadt
+* [Sethu Vijayakumar](https://homepages.inf.ed.ac.uk/svijayak/) University of Edinburgh
+* [Huaping Liu](https://sites.google.com/site/thuliuhuaping) Tsinghua University
+* [Andy Zeng](https://andyzeng.github.io/) [[Github]](https://github.com/andyzeng) Google Brain
+* [Yuke Zhu](https://www.cs.utexas.edu/~yukez/) [[Github]](https://github.com/yukezhu) University of Texas at Austin
+* [Cewu Lu](https://www.mvig.org/) Shanghai Jiaotong University
+* [Huazhe Xu](http://hxu.rocks/) Tsinghua University
+* [Edward Johns](https://www.robot-learning.uk/) Imperial College London
+* [Hao Dong](https://zsdonghao.github.io/) Peking University
+* [Yunzhu Li](https://yunzhuli.github.io/) [[Github]](https://github.com/yunzhuli) UIUC
+* [Yang Gao](http://people.iiis.tsinghua.edu.cn/~gaoyang/yang-gao.weebly.com/index.html) Tsinghua University
+* [Xiaolong Wang](https://xiaolonw.github.io/index.html) UC San Diego
+* [Nicklas Hansen](https://nicklashansen.github.io/) UC San Diego
+* [Wenyu Liang](https://www.liangwenyu.com/welcome) A star
+* [Abhinav Valada](https://scholar.google.com/citations?hl=en&user=LcARjz0AAAAJ&view_op=list_works&sortby=pubdate) University of Freiburg
 ---
 ## Benchmarks
 ### MuJoCo-based
