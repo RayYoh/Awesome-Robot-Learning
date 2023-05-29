@@ -95,6 +95,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [RLBench:Robot Learning Benchmark](https://sites.google.com/view/rlbench)
 * [Thrower and Goalie Robot Arms](https://github.com/muddasser27/Thrower_Goalie_RobotArms)
 * [SoftGym](https://github.com/Xingyu-Lin/softgym)
+* [VIMA-Bench: Benchmark for Multimodal Robot Learning](https://github.com/vimalabs/VIMABench)
 ---
 ## Datasets
 * [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://sites.google.com/view/d4rl/home) For offline RL.
