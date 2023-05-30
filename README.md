@@ -64,6 +64,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [Nicklas Hansen](https://nicklashansen.github.io/) UC San Diego
 * [Wenyu Liang](https://www.liangwenyu.com/welcome) A star
 * [Abhinav Valada](https://scholar.google.com/citations?hl=en&user=LcARjz0AAAAJ&view_op=list_works&sortby=pubdate) University of Freiburg
+* [Dorsa Sadigh](https://iliad.stanford.edu/people/) Stanford
 ---
 ## Benchmarks
 ### MuJoCo-based
