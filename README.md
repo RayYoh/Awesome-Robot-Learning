@@ -47,28 +47,23 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [ETH Robotic Systems Lab](https://rsl.ethz.ch/)
 ---
 ## Active Researchers
-* [Pieter Abbeel](https://i3.cs.berkeley.edu/) UC Berkeley
-* [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) UC Berkeley
-* [Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters) TU Darmstadt
-* [Sethu Vijayakumar](https://homepages.inf.ed.ac.uk/svijayak/) University of Edinburgh
-* [Huaping Liu](https://sites.google.com/site/thuliuhuaping) Tsinghua University
-* [Andy Zeng](https://andyzeng.github.io/) [[Github]](https://github.com/andyzeng) Google Brain
-* [Yuke Zhu](https://www.cs.utexas.edu/~yukez/) [[Github]](https://github.com/yukezhu) University of Texas at Austin
-* [Cewu Lu](https://www.mvig.org/) Shanghai Jiaotong University
-* [Huazhe Xu](http://hxu.rocks/) Tsinghua University
-* [Edward Johns](https://www.robot-learning.uk/) Imperial College London
-* [Hao Dong](https://zsdonghao.github.io/) Peking University
-* [Yunzhu Li](https://yunzhuli.github.io/) [[Github]](https://github.com/yunzhuli) UIUC
-* [Yang Gao](http://people.iiis.tsinghua.edu.cn/~gaoyang/yang-gao.weebly.com/index.html) Tsinghua University
-* [Xiaolong Wang](https://xiaolonw.github.io/index.html) UC San Diego
-* [Nicklas Hansen](https://nicklashansen.github.io/) UC San Diego
-* [Wenyu Liang](https://www.liangwenyu.com/welcome) A star
-* [Abhinav Valada](https://scholar.google.com/citations?hl=en&user=LcARjz0AAAAJ&view_op=list_works&sortby=pubdate) University of Freiburg
-* [Dorsa Sadigh](https://iliad.stanford.edu/people/) Stanford
+| Name                                                         | Institution            | Name                                                         | Institution                  |
+| ------------------------------------------------------------ | ---------------------- | ------------------------------------------------------------ | ---------------------------- |
+| [Pieter Abbeel](https://i3.cs.berkeley.edu/)                 | UC Berkeley            | [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) | UC Berkeley                  |
+| [Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters) | TU Darmstadt           | [Sethu Vijayakumar](https://homepages.inf.ed.ac.uk/svijayak/) | University of Edinburgh      |
+| [Huaping Liu](https://sites.google.com/site/thuliuhuaping)   | Tsinghua University    | [Andy Zeng](https://andyzeng.github.io/) [[Github]](https://github.com/andyzeng) | Google Brain                 |
+| [Yuke Zhu](https://www.cs.utexas.edu/~yukez/) [[Github]](https://github.com/yukezhu) | UT-Austin              | [Cewu Lu](https://www.mvig.org/)                             | Shanghai Jiaotong University |
+| [Huazhe Xu](http://hxu.rocks/)                               | Tsinghua University    | [Edward Johns](https://www.robot-learning.uk/)               | Imperial College London      |
+| [Hao Dong](https://zsdonghao.github.io/)                     | Peking University      | [Yunzhu Li](https://yunzhuli.github.io/) [[Github]](https://github.com/yunzhuli) | UIUC                         |
+| [Yang Gao](http://people.iiis.tsinghua.edu.cn/~gaoyang/yang-gao.weebly.com/index.html) | Tsinghua University    | [Xiaolong Wang](https://xiaolonw.github.io/index.html)       | UC San Diego                 |
+| [Nicklas Hansen](https://nicklashansen.github.io/)           | UC San Diego           | [Wenyu Liang](https://www.liangwenyu.com/welcome)            | A star                       |
+| [Abhinav Valada](https://scholar.google.com/citations?hl=en&user=LcARjz0AAAAJ&view_op=list_works&sortby=pubdate) | University of Freiburg | [Dorsa Sadigh](https://iliad.stanford.edu/people/)           | Stanford                     |
+
 ---
 ## Benchmarks
 ### MuJoCo-based
 * [dm_control: DeepMind Infrastructure for Physics-Based Simulation](https://github.com/deepmind/dm_control)
+* [dm_robotics: Libraries, tools, and tasks created and used for Robotics research at DeepMind](https://github.com/deepmind/dm_robotics)
 * [robosuite: A Modular Simulation Framework and Benchmark for Robot Learning](https://robosuite.ai/)
 * [Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning](https://meta-world.github.io/)
 * [Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics)
@@ -77,7 +72,6 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [Divide-and-Conquer Reinforcement Learning](https://github.com/dibyaghosh/dnc) Catching and Lobbing
 * [DoorGym](https://github.com/PSVL/DoorGym)
 * [RoboHive](https://github.com/vikashplus/robohive)
-* [dm_robotics: Libraries, tools, and tasks created and used for Robotics research at DeepMind](https://github.com/deepmind/dm_robotics)
 
 ### PyBullet-based
 * [PyBullet Gymperium](https://github.com/benelot/pybullet-gym)
@@ -89,8 +83,8 @@ If you find this repo useful, please consider STARing this list and feel free to
 
 ### Issac-based
 * [Omniverse Isaac Gym Reinforcement Learning Environments for Isaac Sim](https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs)
-* [Isaac-ManipulaRL](https://github.com/cypypccpy/Isaac-ManipulaRL)
 * [Omniverse Isaac Orbit](https://github.com/NVIDIA-Omniverse/Orbit) (Recommended)
+* [Isaac-ManipulaRL](https://github.com/cypypccpy/Isaac-ManipulaRL)
 
 ### Others
 * [RLBench:Robot Learning Benchmark](https://sites.google.com/view/rlbench)
