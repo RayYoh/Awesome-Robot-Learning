@@ -94,4 +94,4 @@ If you find this repo useful, please consider STARing this list and feel free to
 ---
 ## Datasets
 * [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://sites.google.com/view/d4rl/home) For offline RL.
-
+* [RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot](https://rh20t.github.io/) Currently the largest single robotic dataset for manipulation. It contains over **110K robot episodes**, **110K corresponding human demonstrations**, over **50 million frames** and over **140 tasks**. 
