@@ -61,6 +61,13 @@ If you find this repo useful, please consider STARing this list and feel free to
 
 ---
 ## Benchmarks
+### Issac-based
+* [Omniverse Isaac Orbit](https://github.com/NVIDIA-Omniverse/Orbit) Based on Issac Sim.
+* [Omniverse Isaac Gym Reinforcement Learning Environments for Isaac Sim](https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs)
+* [OmniGibson](https://github.com/StanfordVL/OmniGibson) a platform for accelerating Embodied AI research built upon NVIDIA's Omniverse platform.
+* [ARNOLD](https://github.com/arnold-benchmark/arnold) A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes
+* [Isaac-ManipulaRL](https://github.com/cypypccpy/Isaac-ManipulaRL)
+
 ### MuJoCo-based
 * [dm_control: DeepMind Infrastructure for Physics-Based Simulation](https://github.com/deepmind/dm_control)
 * [dm_robotics: Libraries, tools, and tasks created and used for Robotics research at DeepMind](https://github.com/deepmind/dm_robotics)
@@ -73,6 +80,9 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [DoorGym](https://github.com/PSVL/DoorGym)
 * [RoboHive](https://github.com/vikashplus/robohive)
 
+### SAPIEN-based
+* [ManiSkill2](https://github.com/haosulab/ManiSkill2/tree/main)
+
 ### PyBullet-based
 * [PyBullet Gymperium](https://github.com/benelot/pybullet-gym)
 * [panda-gym: Set of robotic environments based on PyBullet physics engine and gymnasium](https://github.com/qgallouedec/panda-gym)
@@ -81,17 +91,14 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [Pybullet-implementation of the multi-goal robotics environment originally from Open AI Gym](https://github.com/IanYangChina/pybullet_multigoal_gym)
 * [Toolkit for Vision-Guided Quadrupedal Locomotion Research ](https://github.com/Mehooz/vision4leg)
 
-### Issac-based
-* [Omniverse Isaac Gym Reinforcement Learning Environments for Isaac Sim](https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs)
-* [Omniverse Isaac Orbit](https://github.com/NVIDIA-Omniverse/Orbit) (Recommended)
-* [Isaac-ManipulaRL](https://github.com/cypypccpy/Isaac-ManipulaRL)
-
 ### Others
+* [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) A generative and simulated physical realm for general-purpose embodied-AI learning.
 * [RLBench:Robot Learning Benchmark](https://sites.google.com/view/rlbench)
 * [Thrower and Goalie Robot Arms](https://github.com/muddasser27/Thrower_Goalie_RobotArms)
 * [SoftGym](https://github.com/Xingyu-Lin/softgym)
 * [VIMA-Bench: Benchmark for Multimodal Robot Learning](https://github.com/vimalabs/VIMABench)
 ---
 ## Datasets
+* [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://robotics-transformer-x.github.io/)
 * [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://sites.google.com/view/d4rl/home) For offline RL.
 * [RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot](https://rh20t.github.io/) Currently the largest single robotic dataset for manipulation. It contains over **110K robot episodes**, **110K corresponding human demonstrations**, over **50 million frames** and over **140 tasks**. 
