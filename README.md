@@ -67,11 +67,15 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [OmniGibson](https://github.com/StanfordVL/OmniGibson) a platform for accelerating Embodied AI research built upon NVIDIA's Omniverse platform.
 * [ARNOLD](https://github.com/arnold-benchmark/arnold) A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes
 * [Isaac-ManipulaRL](https://github.com/cypypccpy/Isaac-ManipulaRL)
+* [Unitree Go2 Omniverse](https://github.com/abizovnuralem/go2_omniverse)
+* [unitree_mujoco](https://github.com/unitreerobotics/unitree_mujoco)
 
 ### MuJoCo-based
 * [dm_control: DeepMind Infrastructure for Physics-Based Simulation](https://github.com/deepmind/dm_control)
 * [dm_robotics: Libraries, tools, and tasks created and used for Robotics research at DeepMind](https://github.com/deepmind/dm_robotics)
+* [DMControl Generalization Benchmark 2](https://github.com/aalmuzairee/dmcgb2)
 * [robosuite: A Modular Simulation Framework and Benchmark for Robot Learning](https://robosuite.ai/)
+* [RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots](https://github.com/robocasa/robocasa) Based on robosuite.
 * [Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning](https://meta-world.github.io/)
 * [Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics)
 * [RoboPianist: A Benchmark for High-Dimensional Robot Control](https://kzakka.com/robopianist/)
@@ -79,9 +83,11 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [Divide-and-Conquer Reinforcement Learning](https://github.com/dibyaghosh/dnc) Catching and Lobbing
 * [DoorGym](https://github.com/PSVL/DoorGym)
 * [RoboHive](https://github.com/vikashplus/robohive)
+* [mujoco_menagerie: High-quality models for MuJoCo](https://github.com/google-deepmind/mujoco_menagerie)
 
 ### SAPIEN-based
-* [ManiSkill2](https://github.com/haosulab/ManiSkill2/tree/main)
+* [ManiSkill3](https://github.com/haosulab/ManiSkill)
+* [SimplerEnv: Simulated Manipulation Policy Evaluation Environments for Real Robot Setups](https://github.com/simpler-env/SimplerEnv) Currently based on ManiSkill2
 
 ### PyBullet-based
 * [PyBullet Gymperium](https://github.com/benelot/pybullet-gym)
@@ -97,6 +103,10 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [Thrower and Goalie Robot Arms](https://github.com/muddasser27/Thrower_Goalie_RobotArms)
 * [SoftGym](https://github.com/Xingyu-Lin/softgym)
 * [VIMA-Bench: Benchmark for Multimodal Robot Learning](https://github.com/vimalabs/VIMABench)
+* [Colosseum: A Benchmark for Evaluating Generalization for Robotic Manipulation](https://github.com/robot-colosseum/robot-colosseum) Based on RLBench
+* [LeRobot: State-of-the-art Machine Learning for real-world robotics](https://github.com/huggingface/lerobot) From HuggingFace.
+* [HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation](https://github.com/carlosferrazza/humanoid-bench)
+
 ---
 ## Datasets
 * [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://robotics-transformer-x.github.io/)
