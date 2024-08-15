@@ -1,8 +1,13 @@
+<div align="center">
+
 # Awesome-Robot-Learning
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![license](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)](LICENSE) 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+</div>
 
-This repo contains a curative list of **robot learning** (mainly for manipulation) resources, inspired by [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics). <br> 
+This repo contains a curative list of **robot learning** (mainly for manipulation, which is also considered as a subtask of **Embodied AI**) resources, inspired by [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics). <br> 
 
 **Motivation:** Robot learning, especially robot manipulation skills learning, is receiving more and more attention, but since there are numerous subdivisions of robot learning and a dazzling array of approaches, this repo lists some of the researchers active in the field and the simulation environments used to test their algorithms to save researchers time in searching and focusing on their own algorithms. Related research papers are beyond the scope of this repo.  <br>
 
@@ -11,30 +16,50 @@ Please feel free to send me [pull requests](https://github.com/RayYoh/Awesome-Ro
 If you find this repo useful, please consider STARing this list and feel free to share this list with others!
 
 ---
-## Overview
+## 🔥 News
+* Update related survey paper (2024/08/15).
 
+---
+
+## Overview
 - [Awesome-Robot-Learning](#awesome-robot-learning)
+  - [🔥 News](#-news)
   - [Overview](#overview)
+  - [Related Paper](#related-paper)
+    - [Surveys](#surveys)
   - [Related Awesome Lists](#related-awesome-lists)
   - [Laboratories](#laboratories)
   - [Active Researchers](#active-researchers)
   - [Benchmarks](#benchmarks)
-    - [MuJoCo-based](#mujoco-based)
-    - [PyBullet-based](#pybullet-based)
     - [Issac-based](#issac-based)
+    - [MuJoCo-based](#mujoco-based)
+    - [SAPIEN-based](#sapien-based)
+    - [PyBullet-based](#pybullet-based)
     - [Others](#others)
   - [Datasets](#datasets)
+  - [:books: License](#books-license)
+
+---
+## Related Paper
+### Surveys
+| Paper                    |  Venue | Code/Project |                                  
+|---------------------------------------------|:-------------:|:------------:|
+|[Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://arxiv.org/pdf/2407.06886)|arXiv 2024|[Code](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)|
+|[A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/pdf/2405.14093)|arXiv 2024|-|
+|[Robot learning in the era of foundation models: A survey](https://arxiv.org/abs/2311.14379)|arXiv 2023|-|
+|[What Foundation Models can Bring for Robot Learning in Manipulation : A Survey](https://arxiv.org/pdf/2404.18201)|arXiv 2024|-|
+|[Toward general-purpose robots via foundation models: A survey and meta-analysis](https://arxiv.org/abs/2312.08782)|arXiv 2023|[Project](https://robotics-fm-survey.github.io/)|
+|[Towards Generalist Robot Learning from Internet Video: A Survey](https://arxiv.org/abs/2404.19664)|arXiv 2024|-|
+|[Learning by Watching: A Review of Video-based Learning Approaches for Robot Manipulation](https://arxiv.org/abs/2402.07127)|arXiv 2024|-|
+
 
 ---
 ## Related Awesome Lists
-* [Awesome Robotics (Kiloreux)](https://github.com/kiloreux/awesome-robotics)
-* [Awesome Robotics (ahundt)](https://github.com/ahundt/awesome-robotics)
-* [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling)
-* [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
-* [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
-* [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)
-* [Awesome NVIDIA Isaac Gym](https://github.com/wangcongrobot/awesome-isaac-gym)
-* [Awesome RL Envs](https://github.com/clvrai/awesome-rl-envs)
+| Col.1 | Col.2 | Col.3 |
+|:---------:|:---------:|:---------:|
+| [Awesome Robotics (Kiloreux)](https://github.com/kiloreux/awesome-robotics) | [Awesome Robotics (ahundt)](https://github.com/ahundt/awesome-robotics) | [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) |
+| [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) | [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/) | [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) |
+| [Awesome NVIDIA Isaac Gym](https://github.com/wangcongrobot/awesome-isaac-gym) | [Awesome RL Envs](https://github.com/clvrai/awesome-rl-envs) |  |
 
 ---
 ## Laboratories
@@ -58,6 +83,8 @@ If you find this repo useful, please consider STARing this list and feel free to
 | [Yang Gao](http://people.iiis.tsinghua.edu.cn/~gaoyang/yang-gao.weebly.com/index.html) | Tsinghua University    | [Xiaolong Wang](https://xiaolonw.github.io/index.html)       | UC San Diego                 |
 | [Nicklas Hansen](https://nicklashansen.github.io/)           | UC San Diego           | [Wenyu Liang](https://www.liangwenyu.com/welcome)            | A star                       |
 | [Abhinav Valada](https://scholar.google.com/citations?hl=en&user=LcARjz0AAAAJ&view_op=list_works&sortby=pubdate) | University of Freiburg | [Dorsa Sadigh](https://iliad.stanford.edu/people/)           | Stanford                     |
+| [Hao Su](https://cseweb.ucsd.edu/~haosu/) | UC San Diego | [He Wang](https://scholar.google.com/citations?user=roCAWkoAAAAJ&hl=en)           | Peking University                     |
+| [Siyuan Huang](https://siyuanhuang.com/) | BIGAI | -           | -                     |
 
 ---
 ## Benchmarks
@@ -112,3 +139,6 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://robotics-transformer-x.github.io/)
 * [D4RL: Datasets for Deep Data-Driven Reinforcement Learning](https://sites.google.com/view/d4rl/home) For offline RL.
 * [RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot](https://rh20t.github.io/) Currently the largest single robotic dataset for manipulation. It contains over **110K robot episodes**, **110K corresponding human demonstrations**, over **50 million frames** and over **140 tasks**. 
+
+## :books: License
+This repository is released under the [MIT license](LICENSE).
