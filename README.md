@@ -17,7 +17,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 
 ---
 ## 🔥 News
-* Update related survey paper (2024/08/15).
+* Update Awesome-Robotics-3D (2024/08/16).
 
 ---
 
@@ -59,7 +59,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 |:---------:|:---------:|:---------:|
 | [Awesome Robotics (Kiloreux)](https://github.com/kiloreux/awesome-robotics) | [Awesome Robotics (ahundt)](https://github.com/ahundt/awesome-robotics) | [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) |
 | [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) | [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/) | [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) |
-| [Awesome NVIDIA Isaac Gym](https://github.com/wangcongrobot/awesome-isaac-gym) | [Awesome RL Envs](https://github.com/clvrai/awesome-rl-envs) |  |
+| [Awesome NVIDIA Isaac Gym](https://github.com/wangcongrobot/awesome-isaac-gym) | [Awesome RL Envs](https://github.com/clvrai/awesome-rl-envs) | [Awesome-Robotics-3D](https://github.com/zubair-irshad/Awesome-Robotics-3D) |
 
 ---
 ## Laboratories
