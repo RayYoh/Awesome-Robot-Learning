@@ -17,7 +17,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 
 ---
 ## 🔥 News
-* Update Awesome-Robotics-3D (2024/08/16).
+* Update Awesome-Video-Robotic-Papers	 (2024/08/22).
 
 ---
 
@@ -51,6 +51,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 |[Toward general-purpose robots via foundation models: A survey and meta-analysis](https://arxiv.org/abs/2312.08782)|arXiv 2023|[Project](https://robotics-fm-survey.github.io/)|
 |[Towards Generalist Robot Learning from Internet Video: A Survey](https://arxiv.org/abs/2404.19664)|arXiv 2024|-|
 |[Learning by Watching: A Review of Video-based Learning Approaches for Robot Manipulation](https://arxiv.org/abs/2402.07127)|arXiv 2024|-|
+|[A Survey of Embodied Learning for Object-Centric Robotic Manipulation](https://arxiv.org/abs/2408.11537)|arXiv 2024|[Project](https://github.com/RayYoh/OCRM_survey?tab=readme-ov-file)|
 
 
 ---
@@ -60,6 +61,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 | [Awesome Robotics (Kiloreux)](https://github.com/kiloreux/awesome-robotics) | [Awesome Robotics (ahundt)](https://github.com/ahundt/awesome-robotics) | [Awesome Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling) |
 | [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries) | [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/) | [Awesome Robot Descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) |
 | [Awesome NVIDIA Isaac Gym](https://github.com/wangcongrobot/awesome-isaac-gym) | [Awesome RL Envs](https://github.com/clvrai/awesome-rl-envs) | [Awesome-Robotics-3D](https://github.com/zubair-irshad/Awesome-Robotics-3D) |
+| [Awesome-Video-Robotic-Papers](https://github.com/H-Freax/Awesome-Video-Robotic-Papers) |  |  |
 
 ---
 ## Laboratories
