@@ -135,6 +135,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 
 ### Others
 * [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) A generative and simulated physical realm for general-purpose embodied-AI learning.
+* [OmniSim](https://github.com/omnilink-tech/omnisim) Apache-2.0 robotics simulator with agent-facing HTTP/JSON and MCP control, URDF import, ROS 2 interfaces, and an in-engine policy skill library.
 * [RLBench:Robot Learning Benchmark](https://sites.google.com/view/rlbench)
 * [Thrower and Goalie Robot Arms](https://github.com/muddasser27/Thrower_Goalie_RobotArms)
 * [SoftGym](https://github.com/Xingyu-Lin/softgym)
