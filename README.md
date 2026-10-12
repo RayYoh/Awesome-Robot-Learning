@@ -119,6 +119,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [RoboHive](https://github.com/vikashplus/robohive)
 * [mujoco_menagerie: High-quality models for MuJoCo](https://github.com/google-deepmind/mujoco_menagerie)
 * [so101-nexus](https://github.com/johnsutor/so101-nexus): Full-stack robot learning for the SO-101 arm (teleoperation, imitation learning, RL) in MuJoCo, with a GPU-parallel NVIDIA Warp backend.
+ * [DuoBench](https://github.com/RobotControlStack/duobench): A Reproducible Benchmark for Bimanual Manipulation in Simulation and the Real World ([paper](https://arxiv.org/abs/2606.11901), [project](https://duobench.github.io))
 
 ### SAPIEN-based
 * [ManiSkill3](https://github.com/haosulab/ManiSkill)
