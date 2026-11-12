@@ -142,6 +142,7 @@ If you find this repo useful, please consider STARing this list and feel free to
 * [Colosseum: A Benchmark for Evaluating Generalization for Robotic Manipulation](https://github.com/robot-colosseum/robot-colosseum) Based on RLBench
 * [LeRobot: State-of-the-art Machine Learning for real-world robotics](https://github.com/huggingface/lerobot) From HuggingFace.
 * [HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation](https://github.com/carlosferrazza/humanoid-bench)
+* [Alloy](https://github.com/argonrobotics-ai/alloy) Multi-material, GPU-parallel physics engine for robot learning (robots, cloth, cables, liquids, sand and soft bodies in one scene), built on MuJoCo Warp and Newton. Apache-2.0.
 
 ---
 ## Datasets
